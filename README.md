@@ -6,7 +6,7 @@
 <p>一键交付：直接导出 PDF 格式，无论是发给团队成员还是其他人审阅都可以。<br>
 <p>专业兼容：支持导出 .fountain 格式文件，可无缝对接其它专业编剧软件继续深度编辑。<br>
 <p>中文优化：为简体中文用户打造，意图解决常见剧本软件的中文输入痛点。<br>
-<p>开箱即用：安装了Windows的电脑无需安装环境，使用EDGE浏览器打开“NotepadScriptWritter(Alpha).html”即可运行。
+<p>开箱即用：Windows电脑使用EDGE浏览器打开“NotepadScriptWritter(Alpha).html”即可运行。Mac苹果电脑同理，使用浏览器即可打开。
 <p>如果您无法打开html文件，这里是已经封装好的独立.exe文件(https://pan.baidu.com/s/1t4QGrKx_1KsZEbP-S0WEvw?pwd=y869) 。下载后解压打开即可使用。
 <h2>如何使用🚀 </h2>
 <p>下载软件。
