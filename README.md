@@ -19,8 +19,8 @@
 <p>我正在学习编程，并尝试成为一名开发者。这个软件是我在学习过程中的一次实践。<br>
 <p>如果您在使用过程中发现任何不妥当的地方（无论是 BUG、排版错误还是功能建议），非常欢迎您在 [Issues] 中提交反馈。我会努力寻找方法，尽快解决问题并完善它。
 感谢您的尝试与支持！❤️
-
-##### 看过的文章，感谢大佬分享：
+<p><img src="/NotepadScriptWritter.png" width="264" height="264" />
+<p>##### 看过的文章，感谢大佬分享：
 <p>https://fountain.io/
 <p>https://markdown.com.cn/
 <p>https://nwjs.io/
